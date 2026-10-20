@@ -4,7 +4,7 @@ Two assignments from the MSc module CS908 Research Methods, University of Warwic
 
 ## Assignment 1: Digital twins for cardiovascular healthcare, a critical analysis
 
-[`assignment-1-critical-analysis/Critical_Analysis_Digital_Twins.pdf`](assignment-1-critical-analysis/Critical_Analysis_Digital_Twins.pdf)
+[`critical-analysis/Critical_Analysis_Digital_Twins.pdf`](critical-analysis/Critical_Analysis_Digital_Twins.pdf)
 
 A five-page critical review of **15 papers (2023 to 2025)** on whether digital twins, virtual copies of a patient's heart or body, can work for real cardiovascular care.
 
@@ -15,7 +15,7 @@ A five-page critical review of **15 papers (2023 to 2025)** on whether digital t
 
 ## Assignment 2: Data That Never Dies, legal rights and the ethics of AI resurrection
 
-[`assignment-2-presentation/Presentation_Slides.pdf`](assignment-2-presentation/Presentation_Slides.pdf)
+[`presentation/Presentation_Slides.pdf`](presentation/Presentation_Slides.pdf)
 
 A recorded talk (maximum 15 minutes) on an ethical, legal and social issue: what happens to a person's data after death, and whether AI should be used to simulate the dead. The 13 slides cover:
 
