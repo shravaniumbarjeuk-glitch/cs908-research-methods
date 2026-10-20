@@ -1,0 +1,17 @@
+# Supplied or large material stays out of the repository
+data/*.csv
+*.csv
+*.zip
+*.mp4
+*.pt
+*.pth
+*.pkl
+*.bin
+*.ppm
+*.o
+gmon.out
+glove*
+Thumbs.db
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
